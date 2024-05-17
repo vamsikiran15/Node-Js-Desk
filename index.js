@@ -44,7 +44,7 @@ app.get('/api/user',(req,res)=>{
 })
 
 app.listen(port,()=>
-console.log("server starting at port numbrt :",port)
+console.log("server starting at port number :",port)
 )
 
 function marks(marks){
